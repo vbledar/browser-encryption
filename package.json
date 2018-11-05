@@ -1,0 +1,25 @@
+{
+  "name": "browser-encryption",
+  "version": "1.0.0",
+  "description": "Encrypt on browser using AES.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbledar/browser-encryption.git"
+  },
+  "keywords": [
+    "encryption",
+    "browser",
+    "aes",
+    "javascript"
+  ],
+  "author": "Bledar Vasili",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/vbledar/browser-encryption/issues"
+  },
+  "homepage": "https://github.com/vbledar/browser-encryption#readme"
+}
